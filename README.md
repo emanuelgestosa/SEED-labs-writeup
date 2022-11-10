@@ -1,9 +1,9 @@
+# SEED labs Writeup
 
-Breve descrição do grupo
+My writeup to the SEED labs exercices.
+So far I have writeups for:
 
-* Turno: L03
-* Grupo: 01
-* Alunos:
-    - Eduardo Correia up201909914 
-    - Emanuel Gestosa up202005485
-    - Diogo Rocha up201606166
+* category-software
+    * environment variables
+    * buffer overflow setuid
+    * format string
